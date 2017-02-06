@@ -1,0 +1,188 @@
+body{
+  margin: 0;
+}
+
+a:visited, a:link{
+  color:#ffffff;
+  text-decoration: none;
+}
+
+#header{
+  width: 100%;
+  min-width: 960px;
+  height: 230px;
+  color: #ffffff;
+  background-color: #5db89d;
+  padding-bottom: 20px;
+}
+
+.wrapper{
+  width: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#navbar{
+  height: 50px;
+  font-family: 'hobo std';
+}
+
+#logo{
+  width: auto;
+  height: auto;
+  padding-top: 50px;
+  margin-right: 65px;
+  float: right;
+}
+
+.navigation{
+  width: 180px;
+  height: 18px;
+  text-align: center;
+  padding: 13px 0 19px 0;
+  font-size: 18px;
+  float: left;
+}
+
+.navigation:hover{
+  background-color: #f0e68c;
+}
+
+.slogan{
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'hobo std';
+}
+
+.wrapper-sosmed{
+  text-align: center;
+}
+
+#beranda {
+  width: 100%;
+  min-width: 960px;
+  background-color: #e8a0b8;
+  background-repeat: no-repeat;
+  background-position: top center;
+  line-height: 1.4em;
+  padding-top: 50px;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+#wrapper-judul {
+  width: 100%;
+  min-width: 960px;
+  height: 100%;
+  background-color: #ff1493;
+  padding-top: 10px;
+}
+
+.judul{
+  text-align: center;
+  font-size: 18px;
+  font-family: 'hobo std';
+}
+
+#wrap-judul2 {
+  width: 100%;
+  min-width: 960px;
+  height: 100%;
+  background-color: #ff1493;
+}
+
+.solusi{
+  text-align: center;
+  color: #000000;
+  background-color: #f0e68c;
+  padding: 0 5px;
+  font-family: 'hobo std';
+}
+
+.sol{
+  text-align: center;
+  color: #ffffff;
+  font-family: 'hobo std';
+  padding-top: 20px;
+}
+
+.resep1{
+  color: #000000;
+  font-family: 'hobo std';
+  text-align: center;
+}
+
+.bahan1{
+  margin-right: 140px;
+  float: right;
+  font-family: 'hobo std';
+}
+
+.bahan2{
+  margin-right: 20px;
+  float: right;
+  padding-top: 20px;
+  font-size: 15px;
+  font-family: 'hobo std';
+}
+
+.bahan3{
+  margin-right: 200px;
+  float: right;
+  font-family: 'hobo std';
+}
+
+.jenis{
+  text-align: center;
+  font-size: 24px;
+  font-family: 'hobo std';
+}
+
+#contoh {
+  width: auto;
+  min-width: 960px;
+  background-repeat: no-repeat;
+  background-position: top center;
+  line-height: 1.4em;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  overflow: auto;
+  font-family: 'hobo std';
+}
+
+.judul{
+  color: #ffffff;
+}
+
+#contoh > .wrapper-jenis > div {
+  width: auto;
+  height: 500px;
+  float:left;
+  margin: 0 5px 10px 5px;
+  margin-left: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#contoh img {
+  z-index: 1;
+  position: relative;
+  bottom: 60px;
+}
+
+#contoh h3 {
+  z-index: 2;
+  position: relative;
+  background-color: rgba(0,0,0,.3);
+}
+
+#footer{
+  width: 100%;
+  min-width: 960px;
+  background-color: #f0e68c;
+  color: #000000;
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'hobo std';
+}

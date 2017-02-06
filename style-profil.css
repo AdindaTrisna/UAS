@@ -1,0 +1,90 @@
+body{
+  margin: 0;
+}
+
+a:visited, a:link{
+  color:#ffffff;
+  text-decoration: none;
+}
+
+#header{
+  width: 100%;
+  min-width: 960px;
+  height: 230px;
+  color: #ffffff;
+  background-color: #5db89d;
+  padding-bottom: 20px;
+}
+
+.wrapper{
+  width: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#navbar{
+  height: 50px;
+  font-family: 'hobo std';
+}
+
+#logo{
+  width: auto;
+  height: auto;
+  padding-top: 50px;
+  margin-right: 65px;
+  float: right;
+}
+
+.navigation{
+  width: 180px;
+  height: 18px;
+  text-align: center;
+  padding: 13px 0 19px 0;
+  font-size: 18px;
+  float: left;
+}
+
+.navigation:hover{
+  background-color: #f0e68c;
+}
+
+.slogan{
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'hobo std';
+}
+
+.wrapper-sosmed{
+  text-align: center;
+}
+
+#beranda {
+  width: 100%;
+  min-width: 960px;
+  background-color: #e8a0b8;
+  background-repeat: no-repeat;
+  background-position: top center;
+  line-height: 1.4em;
+  padding-top: 50px;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+#wrapper-judul {
+  width: 100%;
+  min-width: 960px;
+  height: 100%;
+  background-color: #ff1493;
+  padding-top: 10px;
+}
+
+#footer{
+  width: 100%;
+  min-width: 960px;
+  background-color: #f0e68c;
+  color: #000000;
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'hobo std';
+}
